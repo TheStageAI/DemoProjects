@@ -39,10 +39,15 @@ Accelerated AI models produced by TheStage AI ANNA (Automated Neural Networks Ac
 |---------|-------------|--------|
 | [Flux_schnell_inference](ElasticModels/Flux_schnell_inference/) | Text-to-image generation with FLUX.1-schnell | Ready |
 | [TheWhisper_batch_job](ElasticModels/TheWhisper_batch_job/) | Batch audio transcription with TheWhisper | Ready |
-| [Qlip_Compile](ElasticModels/Qlip_Compile/) | Model compilation with QLIP | Coming soon |
-| [Qlip_Compress](ElasticModels/Qlip_Compress/) | Model compression with QLIP | Coming soon |
-| [Qlip_Serve](ElasticModels/Qlip_Serve/) | Model serving with QLIP | Coming soon |
-| [Qlip_Skills](ElasticModels/Qlip_Skills/) | Custom skills with QLIP | Coming soon |
+
+### Qlip
+
+| Project | Description                 | Status |
+|---------|-----------------------------|--------|
+| [Qlip_Compile](Qlip_Compile/) | Model compilation with QLIP | Coming soon |
+| [Qlip_Compress](Qlip_Compress/) | Model compression with QLIP | Coming soon |
+| [Qlip_Serve](Qlip_Serve/) | Model serving with QLIP     | Coming soon |
+| [Qlip_Skills](Qlip_Skills/) | Custom skills for QLIP      | Coming soon |
 
 ## System Requirements
 
