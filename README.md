@@ -49,6 +49,12 @@ Accelerated AI models produced by TheStage AI ANNA (Automated Neural Networks Ac
 | [Qlip_Serve](Qlip_Serve/) | Model serving with QLIP     | Coming soon |
 | [Qlip_Skills](Qlip_Skills/) | Custom skills for QLIP      | Coming soon |
 
+### Platform
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [TheStage_CLI_Skills](TheStage_CLI_Skills/) | Agent skills for the `thestage` CLI: instances and free GPUs, marketplace, projects, containers, tasks, storage, troubleshooting | Ready |
+
 ## System Requirements
 
 All ElasticModels demos require:
